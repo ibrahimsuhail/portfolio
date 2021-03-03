@@ -3222,3 +3222,22 @@ input, select, textarea {
 strong{
 	color: #000;
 }
+.meh{
+	box-sizing: inherit;
+padding: 0;
+font-size: 100%;
+font: inherit;
+vertical-align: baseline;
+transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
+color: #49bf9d;
+text-decoration: none;
+border-radius: 0.35em;
+border: 0;
+position: relative;
+text-align: center;
+display: block;
+width: 100%;
+margin: 0 0 1.5em 0;
+cursor: pointer;
+outline: 0px;
+}
